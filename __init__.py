@@ -1,0 +1,1 @@
+from interface import get_numbers,show_result, show_history
